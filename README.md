@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Sawit.</h3>
+
+<p align="center">
+  <a href="https://tansawit.me">Blog</a> •
+  <a href="https://twitter.com/tansawit">Twitter</a> •
+  <a href="https://linkedin.com/in/tansawit">LinkedIn</a> •
+  <a href="https://t.me/@tansawit">Telegram</a> •
+  <a href="mailto:sawit.tr@gmail.com">Email</a> •
+</p>
+
+I'm a software engineer at [Band Protocol](https://bandprotocol.com) mainly focusing on integrating our [cross-chain data oracle](https://bandprotocol.com/bandchain) solution with various partner projects. I also work on our [block explorer](https://cosmoscan.io) and articles/documentation.
 
 <!--
 **tansawit/tansawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
