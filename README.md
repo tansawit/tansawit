@@ -10,6 +10,10 @@
 
 I'm a software engineer at [Band Protocol](https://bandprotocol.com) mainly focusing on integrating our [cross-chain data oracle](https://bandprotocol.com/bandchain) solution with various partner blockchains and projects. I also work on our [block explorer](https://cosmoscan.io) and write/maintain the majority of Band's documentation. Previously, I graduated from the [University of Michigan](https://umich.edu) with a degree in computer science.
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **tansawit/tansawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
