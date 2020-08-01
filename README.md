@@ -12,6 +12,10 @@ I'm a software engineer at [Band Protocol](https://bandprotocol.com) mainly focu
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Band Oracle #3 — Lite Client Verification](https://medium.com/bandprotocol/understanding-band-oracle-3-lite-client-verification-d03ed3f4ccb8?source=rss-2d9b0ef5b50b------2)
+- [Understanding Band Oracle #2 — Requesting Data on BandChain](https://medium.com/bandprotocol/understanding-band-oracle-2-requesting-data-on-bandchain-b3fde67072a?source=rss-2d9b0ef5b50b------2)
+- [Understanding Band Oracle #1 — Oracle Scripts and Data Sources](https://medium.com/bandprotocol/understanding-band-oracle-1-oracle-scripts-and-data-sources-5d49847b4316?source=rss-2d9b0ef5b50b------2)
+- [Something New. Something Different.](https://medium.com/@tansawit/something-new-something-different-a2716ed4ee20?source=rss-2d9b0ef5b50b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
