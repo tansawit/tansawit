@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Sawit
 
-I'm a software engineer at [Band Protocol](https://bandprotocol.com) mainly focusing on integrating our [cross-chain data oracle](https://bandprotocol.com/bandchain) solution with various partner blockchains and projects. I also work on our [block explorer](https://cosmoscan.io) and write/maintain the majority of Band's documentation. Previously, I graduated from the [University of Michigan](https://umich.edu) with a degree in computer science.
+I'm a software engineer at [Band Protocol](https://bandprotocol.com) mainly focusing on integrating our [cross-chain data oracle](https://bandprotocol.com/bandchain) solution with various partner blockchains and projects. I also work on our [block explorer](https://cosmoscan.io) and write/maintain the majority of [Band's documentation](https://docs.bandchain.org). Previously, I graduated from the [University of Michigan](https://umich.edu) with a degree in computer science.
 
 ## Connect with me
 
